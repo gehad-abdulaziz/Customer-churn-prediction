@@ -139,4 +139,5 @@ python churn_prediction.py
 **Eng Gehad Abdulaziz**
 - Data Scientist
 - [GitHub Profile](https://github.com/gehad-abdulaziz)
-- [LinkedIn Profile](www.linkedin.com/in/gehad-abdulaziz-228973287)
+- [LinkedIn Profile](https://www.linkedin.com/in/gehad-abdulaziz-228973287)
+
